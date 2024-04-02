@@ -1,4 +1,4 @@
-### Hi guys What´s up, I´m Ruan
+### Hi guys What´s up? I´m Ruan
 
           
 
