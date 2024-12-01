@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9713CF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9713CF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Maria+Leilane!;Sou+Desenvolvedora+Full+Stack+👩🏽‍💻;Seja+bem-vindo(a)+ao+meu+GitHub!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9713CF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+RuanVinicios!;Sou+Desenvolvedora+Full+Stack+👩🏽‍💻;Seja+bem-vindo(a)+ao+meu+GitHub!+)](https://git.io/typing-svg)
 
 
 <p  align="center">Sou uma desenvolvedora apaixonada por programação web, com um entusiasmo especial por criar soluções inovadoras e eficientes. Meu objetivo é transformar ideias em realidade através do código, sempre buscando aprimorar minhas habilidades e contribuir para projetos que impactem positivamente a experiência digital.</p>
