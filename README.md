@@ -82,7 +82,7 @@
   
   ### 📱 Vamos nos Conectar?
   <br>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+  
    <a href="https://www.linkedin.com/in/rvruan-vinicios/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "rvruanvin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     
@@ -93,7 +93,8 @@
 
 
 <div align="center">  
-
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api username=RuanVinicios&show_icons=true&count_private=true&hide_border=true&title_color=9713CF&icon_color=9713CF&text_color=9713CF&bg_color=0d1117" alt=" Ruan Vinicios github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanVinicios&layout=compact&hide_border=true&title_color=9713CF&text_color=9713CF&bg_color=0d1117" />
 </div>
 
 
