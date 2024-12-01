@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9713CF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Ruan+Vinicios!;Sou+Desenvolvedor+Full+Stack+👩🏽‍💻;Seja+bem-vindo(a)+ao+meu+GitHub!+)](https://git.io/typing-svg)
 
 
-<p  align="center">Sou uma desenvolvedor apaixonado por programação web, back-end e mobile com um entusiasmo especial por criar soluções inovadoras e eficientes. Meu objetivo é transformar ideias em realidade através do código, sempre buscando aprimorar minhas habilidades e contribuir para projetos que impactem positivamente a experiência digital.</p>
+<p  align="center">Sou um desenvolvedor apaixonado por programação web, back-end e mobile com um entusiasmo especial por criar soluções inovadoras e eficientes. Meu objetivo é transformar ideias em realidade através do código, sempre buscando aprimorar minhas habilidades e contribuir para projetos que impactem positivamente a experiência digital.</p>
 <br>
 
 ## 
