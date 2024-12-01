@@ -94,7 +94,7 @@
 
 <div align="center">  
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mleilane&show_icons=true&count_private=true&hide_border=true&title_color=9713CF&icon_color=9713CF&text_color=9713CF&bg_color=0d1117" alt=" Vitor Hugo github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mleilane&layout=compact&hide_border=true&title_color=9713CF&text_color=9713CF&bg_color=0d1117" />
+  
 </div>
 
 
