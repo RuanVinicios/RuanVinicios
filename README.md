@@ -6,14 +6,10 @@
 <p  align="center">Sou um desenvolvedor apaixonado por programação web, back-end e mobile com um entusiasmo especial por criar soluções inovadoras e eficientes. Meu objetivo é transformar ideias em realidade através do código, sempre buscando aprimorar minhas habilidades e contribuir para projetos que impactem positivamente a experiência digital.</p>
 <br>
 
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
-
 ## 
 
 ### 🔍 Descubra Mais Sobre Mim:  
 <br> 
-https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVpb3VvOGl0NW1rcmF0bjdrZGh2dTY3M3UxdG1jYm52amp0MmlibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif
-🎓 Cursando Análise e Desenvolvimento de Sistemas. 
 
 🎯 Objetivo: Tornar-me uma desenvolvedor Web Full Stack.
 
