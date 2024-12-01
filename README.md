@@ -11,19 +11,15 @@
 ### 🔍 Descubra Mais Sobre Mim:  
 <br> 
 
-
-<img align="right" alt="img" src="https://github.com/mleilane/mleilane/blob/main/imagem.png?raw=true" width="250px" height="auto"/> <!-- GIF de uma menina programando -->
-
-
 🎓 Cursando Análise e Desenvolvimento de Sistemas. 
 
-🎯 Objetivo: Tornar-me uma desenvolvedora Web Full Stack.
+🎯 Objetivo: Tornar-me uma desenvolvedor Web Full Stack.
 
 🎨 No meu tempo livre, adoro explorar novas tecnologias e projetos criativos.
 
 💬 Pergunte-me sobre livros inspiradores, ou até mesmo aquele bug teimoso!
 
-🤝 Sempre aqui para ajudar! Confira dicas para iniciantes no meu insta @codinggirl__
+🤝 Sempre aqui para ajudar! Sempre estou disposto a compartilhar conhecimentos e ideias!
 <br>
 
 ## 
@@ -32,6 +28,8 @@
 <br> 
 
 * 🧠 **Especializar-me em SEO e acessibilidade:** Aprender como otimizar sites para todos os públicos, garantindo que sejam totalmente adaptados e inclusivos para pessoas com deficiências.
+
+* 🧠 **A longo prazo(10 ou 15 anos) quero ser referência e Arquiteto Java 
 
 * 👩🏽‍💻 **Divulgar meu conhecimento e experiências:** Orientar e inspirar a comunidade de tecnologia com dicas práticas e insights valiosos.
 
@@ -43,7 +41,7 @@
   <br>
   
   ###  Principais Habilidades: <br>
-  <img align="center" alt="Maria-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ruan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Maria-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Maria-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Maria-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
