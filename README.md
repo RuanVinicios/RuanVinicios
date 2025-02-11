@@ -15,8 +15,6 @@
 
 🎨 No meu tempo livre, adoro explorar novas tecnologias e projetos criativos.
 
-💬 Pergunte-me sobre livros inspiradores, ou até mesmo aquele bug teimoso!
-
 🤝 Sempre aqui para ajudar! Sempre estou disposto a compartilhar conhecimentos e ideias!
 <br>
 
@@ -27,7 +25,7 @@
 
 * 🧠 **Especializar-me em SEO e acessibilidade:** Aprender como otimizar sites para todos os públicos, garantindo que sejam totalmente adaptados e inclusivos para pessoas com deficiências.
 
-* 🧠 **A longo prazo(10 ou 15 anos) quero ser referência e Arquiteto Java 
+
 
 * 👩🏽‍💻 **Divulgar meu conhecimento e experiências:** Orientar e inspirar a comunidade de tecnologia com dicas práticas e insights valiosos.
 
